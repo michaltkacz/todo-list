@@ -26,11 +26,11 @@ Project is avaible online on Github Pages [here](https://michaltkacz.github.io/t
 
 ## Screenshots
 
-|                                               |                                             |
+|                User Interface                 |               Adding new TODO               |
 | :-------------------------------------------: | :-----------------------------------------: |
 | <img width="1604"  src="./images/image1.png"> | <img width="1604"  src="./images/gif1.gif"> |
 
-|                                             |                                             |
+|              Dynamic filtering              |               Delete / Revert               |
 | :-----------------------------------------: | :-----------------------------------------: |
 | <img width="1604"  src="./images/gif2.gif"> | <img width="1604"  src="./images/gif3.gif"> |
 
