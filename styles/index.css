@@ -1,0 +1,7 @@
+.list-item-done {
+  background-color: rgb(221, 221, 221);
+}
+
+.list-item-done .list-item-text {
+  text-decoration: line-through;
+}
